@@ -19,6 +19,9 @@ The purpose of this project is to use machine learning and computer vision techn
 Auto generate article
 Predict the score of article
 
+### Visuals
+
+https://plotly.com/~tej_bat/34/
 
 
 #### My Details:
